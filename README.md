@@ -1,6 +1,6 @@
 # Павлова Татьяна
 
-![](/Users/ilya/Desktop/PavlovaGitMaster/img/photo.jpg)
+![](/Users/ilya/Desktop/PavlovaGitMaster/img/phot.jpeg)
 
 ## Основная информация
 
