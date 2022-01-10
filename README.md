@@ -1,6 +1,6 @@
 # Павлова Татьяна
 
-![](/Users/ilya/Desktop/PavlovaGitMaster/img/phot.jpeg)
+![](https://github.com/kupkupy/courseProject/blob/ab4325289fa85b452f373abb4f4b7eb363eb116d/img/phot.jpeg)
 
 ## Основная информация
 
